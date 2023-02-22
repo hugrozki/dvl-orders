@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Empanaditas Ordenes",
+    "slug": "chnchorders",
+    "owner": "hugrozki",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffce00"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffce00"
+      },
+      "package": "com.hugrozki.chnchorders"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "06e5e68a-787e-4324-aff2-2f8056ff40d4"
+      }
+    }
+  }
+}

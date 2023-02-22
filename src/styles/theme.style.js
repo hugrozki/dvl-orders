@@ -1,0 +1,6 @@
+export default {
+  PRIMARY_COLOR: "#080808",
+  SECONDARY_COLOR: "#ffce00",
+  DELETE_COLOR: "#EC7063",
+  ADD_COLOR: "#5DADE2",
+};
